@@ -1,0 +1,1 @@
+Hi! This is JavaScript And this is a text loaded by using the javascript.
